@@ -15,3 +15,7 @@ Este es mi primer repositorio de prueba.
 
 ## 📝 Mi primer commit
 Creé este proyecto el 20 de mayo de 2026.
+
+## 🚀 Rama de Desarrollo
+Esta sección está siendo editada en la rama "desarrollo".
+Aquí estoy probando cambios sin afectar el código principal.
